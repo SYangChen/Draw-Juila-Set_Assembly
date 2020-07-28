@@ -2,6 +2,7 @@
 Transfer c code of "Draw Juila Set" to ARM assembly language in order to practice and learn assembly on my own.
 
 # Environment
+RaspberryPi Simulator
 Ubuntu 18.04
 
 # Usage
